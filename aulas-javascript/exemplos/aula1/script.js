@@ -1,18 +1,17 @@
-//console.log('Olá meninas!');
+//console.log('Olá meninas!'); //joga a mensagem no console
 
 //alert('Olá mundo!');
 
-/*
-let nome = 'Rita';
+
+/*let nome = 'Carol';
 console.log(nome);
 
 nome = 'Laryssa';
-console.log(nome);
-*/
+console.log(nome);*/
 
-//let nome = 'Rita';
 
-//console.log(`Meu nome é ${nome}`);
+/*let nome = 'Carol';
+console.log(`Meu nome é ${nome}`);*/
 
 //let nome = prompt('Qual é seu nome?');
 
